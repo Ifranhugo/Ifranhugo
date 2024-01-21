@@ -1,12 +1,16 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/sOYW74bB4vyJBjFmor" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/print-programming-programacion-sOYW74bB4vyJBjFmor">via GIPHY</a></p> 
-Bienvenido a mi github!!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="200"/>
+</div>
+
+## Welcome to my github!!
 
 ![Banner ](github-header-image.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-ifran)
 
-mis conocimientos:
+My Knowledge:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +29,7 @@ mis conocimientos:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Estadisticas del repositorio
+## Repository Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifranHugo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifranHugo&layout=compact&theme=dark)
